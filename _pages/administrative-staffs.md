@@ -8,3 +8,6 @@ permalink: http://tecn.ac.bd/about/staffs
 published: true
 post_date: 2018-12-27 12:17:54
 ---
+[extpsc id="7800"]
+
+[extpsc id="7817"]
