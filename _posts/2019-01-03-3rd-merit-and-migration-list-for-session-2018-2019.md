@@ -8,6 +8,6 @@ post_excerpt: ""
 layout: post
 permalink: http://tecn.ac.bd/notices/7862
 published: true
-post_date: 2019-01-04 11:00:16
+post_date: 2019-01-03 11:00:16
 ---
 [embeddoc url="http://dot.portal.gov.bd/sites/default/files/files/dot.portal.gov.bd/notices/1d730e0b_6b01_4bd0_b66a_07050aa5c9ea/3rd%20merit%20list%20and%20migration%20list.pdf" viewer="google" ]
