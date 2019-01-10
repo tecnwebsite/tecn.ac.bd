@@ -1,6 +1,6 @@
 ---
 ID: 7897
-post_title: 4th Merit List
+post_title: '4th Merit List for Admission Test &#8211; Session 2018-19'
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
