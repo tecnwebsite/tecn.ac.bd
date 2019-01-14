@@ -1,0 +1,20 @@
+---
+ID: 657
+post_title: >
+  টেক্সটাইল
+  ইঞ্জিনিয়ারিং
+  কলেজ, নোয়াখালী
+author: ""
+post_excerpt: ""
+layout: page
+permalink: http://tecn.ac.bd/bd
+published: true
+post_date: 2018-02-25 17:25:50
+---
+Slide 1 HeadingClick edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingClick edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingClick edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here			
+		<p><strong>Textile Education</strong><br />Engineers are those professionals that create and design new structures, products, or systems, and textile engineers design, create processes and procedures... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh/"><em>(Read Rest</em></a>)</p><p><strong>Textile Education</strong><br />Engineers are those professionals that create and design new structures, products, or systems, and textile engineers design, create processes and procedures... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh/"><em>(Read Rest</em></a>)</p><p><strong>Textile Education</strong><br />Engineers are those professionals that create and design new structures, products, or systems, and textile engineers design, create processes and procedures... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh/"><em>(Read Rest</em></a>)</p>		
+		<p><strong>Prospective Students</strong><br /> <a href="https://tecn.ac.bd/about/facilities/">Campus Facilities</a><br /> <a href="https://tecn.ac.bd/admission/notices/">Admission Notices</a><br /> <a href="https://tecn.ac.bd/admission/requirements/">Requirements</a><br /> <a href="https://tecn.ac.bd/admission/apply-procedure/">Apply Procedure</a><br /> <a href="https://tecn.ac.bd/admission/career-prospects/">Career prospects</a><br /> <a href="https://tecn.ac.bd/admission/faqs/">Admission FAQ</a><br /> <a href="https://tecn.ac.bd/admission/information-desk/">Information Desk</a></p><p><strong>Prospective Students</strong><br /> <a href="https://tecn.ac.bd/about/facilities/">Campus Facilities</a><br /> <a href="https://tecn.ac.bd/admission/notices/">Admission Notices</a><br /> <a href="https://tecn.ac.bd/admission/requirements/">Requirements</a><br /> <a href="https://tecn.ac.bd/admission/apply-procedure/">Apply Procedure</a><br /> <a href="https://tecn.ac.bd/admission/career-prospects/">Career prospects</a><br /> <a href="https://tecn.ac.bd/admission/faqs/">Admission FAQ</a><br /> <a href="https://tecn.ac.bd/admission/information-desk/">Information Desk</a></p><p><strong>Prospective Students</strong><br /> <a href="https://tecn.ac.bd/about/facilities/">Campus Facilities</a><br /> <a href="https://tecn.ac.bd/admission/notices/">Admission Notices</a><br /> <a href="https://tecn.ac.bd/admission/requirements/">Requirements</a><br /> <a href="https://tecn.ac.bd/admission/apply-procedure/">Apply Procedure</a><br /> <a href="https://tecn.ac.bd/admission/career-prospects/">Career prospects</a><br /> <a href="https://tecn.ac.bd/admission/faqs/">Admission FAQ</a><br /> <a href="https://tecn.ac.bd/admission/information-desk/">Information Desk</a></p><p><strong>Prospective Students</strong><br /> <a href="https://tecn.ac.bd/about/facilities/">Campus Facilities</a><br /> <a href="https://tecn.ac.bd/admission/notices/">Admission Notices</a><br /> <a href="https://tecn.ac.bd/admission/requirements/">Requirements</a><br /> <a href="https://tecn.ac.bd/admission/apply-procedure/">Apply Procedure</a><br /> <a href="https://tecn.ac.bd/admission/career-prospects/">Career prospects</a><br /> <a href="https://tecn.ac.bd/admission/faqs/">Admission FAQ</a><br /> <a href="https://tecn.ac.bd/admission/information-desk/">Information Desk</a></p>		
+			<h2>সাম্প্রতিক নোটিশ</h2>		
+		[post_list name='front-page-bd']		
+			<h3>সাম্প্রতিক আয়োজন</h3>		
+		[events_list scope="all" pagination="1" limit="3"]
