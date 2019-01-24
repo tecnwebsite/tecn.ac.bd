@@ -1,10 +1,10 @@
 ---
-ID: 7590
+ID: 7586
 post_title: 16 December Program
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: https://tecn.ac.bd/bd/notices/7590
+permalink: https://tecn.ac.bd/notices/7586
 published: true
 post_date: 2018-12-14 09:41:49
 ---
