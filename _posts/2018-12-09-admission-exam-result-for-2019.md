@@ -1,5 +1,5 @@
 ---
-ID: 7551
+ID: 7549
 post_title: >
   ২০১৮-২০১৯
   শিক্ষাবর্ষে
@@ -12,7 +12,7 @@ post_title: >
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: https://tecn.ac.bd/bd/notices/7586
+permalink: https://tecn.ac.bd/notices/7586
 published: true
 post_date: 2018-12-09 17:33:02
 ---
