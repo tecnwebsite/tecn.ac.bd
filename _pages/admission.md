@@ -8,7 +8,7 @@ permalink: https://tecn.ac.bd/bd/admission
 published: true
 post_date: 2018-02-25 16:45:05
 ---
-The majority of the universities textile graduates take posts in the textile manufacturing industries as process or plant managers, development engineers or technologists. Graduates have found employment in production management, design, textile testing and quality assurance, new product development, buying house, commercial banks, customs, etc. A large number of TECNian are working in the industries and academia both in Bangladesh and around the world.  <a href="https://tecn.ac.bd/bd/admission/textile-education-bangladesh">Read more</a>
+The majority of the universities textile graduates take posts in the textile manufacturing industries as process or plant managers, development engineers or technologists. Graduates have found employment in production management, design, textile testing and quality assurance, new product development, buying house, commercial banks, customs, etc. A large number of TECNian are working in the industries and academia both in Bangladesh and around the world.  <a href="https://tecn.ac.bd/admission/textile-education-bangladesh">Read more</a>
 
 <strong>RECENT NOTICES</strong>
 
