@@ -1,11 +1,11 @@
 ---
-ID: 2376
+ID: 894
 post_title: 03. Degree to be offered
 author: ""
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/bd/academic/regulations/degree-to-be-offered
+  https://tecn.ac.bd/academic/regulations/degree-to-be-offered-2
 published: true
 post_date: 2018-04-10 07:13:58
 ---
