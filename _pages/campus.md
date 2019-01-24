@@ -8,7 +8,7 @@ permalink: https://tecn.ac.bd/bd/campus-2
 published: true
 post_date: 2018-02-25 16:49:53
 ---
-<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><strong>RECENT NOTICES</strong></p>[posts_data_table sort_by="date" columns="date,title" content_length=15 rows_per_page="3" category="campus" search_box="false" reset_button="false" page_length="false" totals="false" links="title" paging_type="simple"]		
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>https://www.youtube.com/watch?v=15H7a-pmrdU&#038;feature=youtu.be		
 			<h2>Club and Activities</h2>		
 		Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
 			<a href="#" role="button">
