@@ -1,10 +1,10 @@
 ---
-ID: 677
+ID: 41
 post_title: Academic
 author: ""
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bd/academic
+permalink: https://tecn.ac.bd/academic
 published: true
 post_date: 2018-02-25 16:44:03
 ---
