@@ -1,10 +1,10 @@
 ---
-ID: 682
+ID: 380
 post_title: Departments
 author: ""
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bd/contact
+permalink: https://tecn.ac.bd/contact
 published: true
 post_date: 2018-03-12 08:46:12
 ---
