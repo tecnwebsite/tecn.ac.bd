@@ -1,10 +1,10 @@
 ---
-ID: 679
+ID: 43
 post_title: Admission
 author: ""
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bd/admission
+permalink: https://tecn.ac.bd/admission-2
 published: true
 post_date: 2018-02-25 16:45:05
 ---
