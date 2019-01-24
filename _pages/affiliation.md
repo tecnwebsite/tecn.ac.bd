@@ -1,11 +1,11 @@
 ---
-ID: 2375
+ID: 892
 post_title: 02. Affiliation
 author: ""
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/bd/academic/regulations/affiliation
+  https://tecn.ac.bd/academic/regulations/affiliation-2
 published: true
 post_date: 2018-04-10 06:22:20
 ---
