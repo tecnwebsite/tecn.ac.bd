@@ -1,7 +1,7 @@
 ---
 ID: 964
 post_title: Academic Regulations
-author: ""
+author: TECN Help Desk
 post_excerpt: ""
 layout: page
 permalink: >
