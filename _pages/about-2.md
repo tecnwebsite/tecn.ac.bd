@@ -1,10 +1,10 @@
 ---
-ID: 39
+ID: 7994
 post_title: About us
 author: TECN Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/about
+permalink: https://tecn.ac.bd/bd/about-2
 published: true
 post_date: 2018-02-25 16:43:06
 ---
