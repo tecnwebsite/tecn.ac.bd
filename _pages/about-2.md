@@ -1,7 +1,7 @@
 ---
 ID: 39
 post_title: About us
-author: ""
+author: TECN Help Desk
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/about
