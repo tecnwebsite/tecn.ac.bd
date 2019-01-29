@@ -4,7 +4,7 @@ post_title: Hostel payment for L4
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: http://tecn.ac.bd/notices/7926
+permalink: https://tecn.ac.bd/notices/7926
 published: true
 post_date: 2019-01-16 10:02:32
 ---

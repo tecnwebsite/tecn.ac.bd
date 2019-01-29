@@ -6,7 +6,7 @@ post_title: >
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: http://tecn.ac.bd/notices/7862
+permalink: https://tecn.ac.bd/notices/7862
 published: true
 post_date: 2019-01-03 23:00:16
 ---

@@ -5,7 +5,7 @@ author: ""
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/regulations/degree-to-be-offered-2
+  https://tecn.ac.bd/academic/regulations/degree-to-be-offered
 published: true
 post_date: 2018-04-10 07:13:58
 ---

@@ -1,10 +1,10 @@
 ---
-ID: 7299
+ID: 2006
 post_title: Admission Login
 author: ""
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bd/admission/login
+permalink: https://tecn.ac.bd/admission/login
 published: true
 post_date: 2018-10-05 03:31:59
 ---

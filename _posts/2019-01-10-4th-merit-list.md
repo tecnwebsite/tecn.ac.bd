@@ -4,7 +4,7 @@ post_title: '4th Merit List for Admission Test &#8211; Session 2018-19'
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: http://tecn.ac.bd/notices/7897
+permalink: https://tecn.ac.bd/notices/7897
 published: true
 post_date: 2019-01-10 11:02:50
 ---

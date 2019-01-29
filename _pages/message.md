@@ -1,10 +1,10 @@
 ---
-ID: 7130
+ID: 7128
 post_title: Principal’s Message
 author: TECN Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bd/massage/3993
+permalink: https://tecn.ac.bd/massage/3993
 published: true
 post_date: 2018-10-31 15:04:09
 ---
@@ -16,4 +16,4 @@ We hope that this website will help you to know about this college and its exist
 
 I look forward to meeting you and welcoming you again to our college .
 <p style="text-align: left;"><em>Engg. A K M Fazlul Haque
-Principal,  Textile Engineering College, Noakhali (<a href="https://tecn.ac.bd/bd/about/administration?uid=7000" target="_blank" rel="noopener">See Profile</a>)</em></p>
+Principal,  Textile Engineering College, Noakhali (<a href="https://tecn.ac.bd/about/administration?uid=7000" target="_blank" rel="noopener">See Profile</a>)</em></p>

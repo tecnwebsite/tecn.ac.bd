@@ -4,7 +4,7 @@ post_title: Academic Calendar 2019
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: http://tecn.ac.bd/notices/7923
+permalink: https://tecn.ac.bd/notices/7923
 published: true
 post_date: 2019-01-11 09:52:51
 ---

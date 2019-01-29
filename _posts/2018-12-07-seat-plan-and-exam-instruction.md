@@ -1,10 +1,10 @@
 ---
-ID: 7454
+ID: 7447
 post_title: Seat Plan and Exam Instruction
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: https://tecn.ac.bd/bd/notices/7586
+permalink: https://tecn.ac.bd/notices/7447
 published: true
 post_date: 2018-12-07 20:27:38
 ---
