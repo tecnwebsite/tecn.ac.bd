@@ -8,4 +8,4 @@ permalink: https://tecn.ac.bd/bd/notices/8040
 published: true
 post_date: 2019-01-30 11:06:28
 ---
-<p><img class="wp-image-8041" src="https://fs1.tecn.ac.bd/uploads/sites/2/2019/01/50921805_2178977435687742_1251445872533700608_o.jpg" alt="" /></p>
+<img class="alignnone wp-image-8041 size-full" src="https://fs1.tecn.ac.bd/uploads/sites/2/2019/01/50921805_2178977435687742_1251445872533700608_o.jpg" alt="" width="100%" />
