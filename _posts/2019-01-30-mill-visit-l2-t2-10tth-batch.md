@@ -1,10 +1,10 @@
 ---
-ID: 8040
+ID: 8044
 post_title: 'মিল পরিদর্শন &#8211; লেভেল ২ টার্ম-২ (১০ম ব্যাচ)'
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: https://tecn.ac.bd/notices/8040
+permalink: https://tecn.ac.bd/bd/notices/8040
 published: true
 post_date: 2019-01-30 11:06:28
 ---
