@@ -1,6 +1,6 @@
 ---
 ID: 8040
-post_title: 'মিল পরিদর্শন &#8211; লেভেল ২ টার্ম-২ (১০ম ব্যাচ)'
+post_title: 'Mill Visit &#8211; L2T2 (10th Batch)'
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
