@@ -1,12 +1,12 @@
 ---
-ID: 8061
+ID: 8064
 post_title: >
   Result of (Wet Process) L-3 T-2
   Exam-2017
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: https://tecn.ac.bd/notices/8061
+permalink: https://tecn.ac.bd/bd/notices/8064
 published: true
 post_date: 2019-01-20 09:12:30
 ---
