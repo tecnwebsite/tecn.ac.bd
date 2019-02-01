@@ -1,8 +1,9 @@
 ---
 ID: 8064
 post_title: >
-  Result of (Wet Process) L-3 T-2
-  Exam-2017
+  লেভেল ৩ টার্ম ২
+  (ওয়েট প্রসেসিং)
+  এর ফলাফল
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
