@@ -4,7 +4,7 @@ post_title: Monthly Stipend
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: http://tecn.ac.bd/media/8078
+permalink: http://tecn.ac.bd/notices/8077
 published: true
 post_date: 2019-02-07 16:13:15
 ---
