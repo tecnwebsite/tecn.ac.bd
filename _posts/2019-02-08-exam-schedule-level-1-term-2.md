@@ -1,10 +1,10 @@
 ---
-ID: 8285
+ID: 8279
 post_title: Exam Schedule Level 1 Term 2
 author: TECN Help Desk
 post_excerpt: ""
 layout: post
-permalink: http://tecn.ac.bd/bd/notices/8285
+permalink: http://tecn.ac.bd/notices/8279
 published: true
 post_date: 2019-02-08 11:04:55
 ---
