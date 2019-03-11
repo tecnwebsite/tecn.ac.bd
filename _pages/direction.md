@@ -4,7 +4,7 @@ post_title: Get Direction
 author: aminulrayhan
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/campus/direction
+permalink: https://tecn.ac.bd/campus/directions
 published: true
 post_date: 2018-02-25 16:50:41
 ---
