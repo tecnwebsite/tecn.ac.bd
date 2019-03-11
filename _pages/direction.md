@@ -1,7 +1,7 @@
 ---
 ID: 59
 post_title: Get Direction
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/campus/direction
