@@ -4,7 +4,7 @@ post_title: Home
 author: aminulrayhan
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/
+permalink: https://tecn.ac.bd/home-2
 published: true
 post_date: 2018-02-25 17:25:50
 ---
