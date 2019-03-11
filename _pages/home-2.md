@@ -8,59 +8,15 @@ permalink: https://tecn.ac.bd/home-2
 published: true
 post_date: 2018-02-25 17:25:50
 ---
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, wh
-
-<strong>Textile Engineering</strong>
-Textile Engineering is branch of engineering that deals with designing and controlling all aspects of fiber, textile &amp; apparel processes, products and machinery. It... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh/"><em>(Read Rest</em></a>)
-
-<strong>Career Prospects</strong>
-Being a textile engineers they get vast opportunities in country's giant industry as well as outside. Production control, product research and development, process, sales...(<a href="https://tecn.ac.bd/admission/career-prospects/"><em>Read Rest</em></a>)
-
-<strong>About TECN</strong>
-Textile Engineering College, Begumgonj, Noakhali is an government educational institute in Bangladesh. It is affiliated with Bangladesh Uni...(<a href="https://tecn.ac.bd/about/"><em>Read Rest</em></a>)
-
-<strong>Prospective Students</strong>
-<a href="https://tecn.ac.bd/about/facilities/">Campus Facilities</a>
-<a href="https://tecn.ac.bd/admission/notices/">Admission Notices</a>
-<a href="https://tecn.ac.bd/admission/requirements/">Requirements</a>
-<a href="https://tecn.ac.bd/admission/apply-procedure/">Apply Procedure</a>
-<a href="https://tecn.ac.bd/admission/career-prospects/">Career prospects</a>
-<a href="https://tecn.ac.bd/admission/faqs/">Admission FAQ</a>
-<a href="https://tecn.ac.bd/admission/information-desk/">Information Desk</a>
-
-<strong>Current Students</strong>
-<a href="https://tecn.ac.bd/academic/academic-information-policies/">Academic Policies</a>
-<a href="https://tecn.ac.bd/notices/">Notices Board</a>
-<a href="https://tecn.ac.bd/academic/curriculum/">Curriculum</a>
-<a href="https://tecn.ac.bd/academic/grading-policy/">Grading Policy</a>
-<a href="https://tecn.ac.bd/academic/student-code-conduct/">Code of Conduct</a>
-<a href="https://tecn.ac.bd/academic/student-records/">Student Records</a>
-<a href="https://tecn.ac.bd/academic/syllabus/">Syllabus</a>
-
-<strong>Staffs</strong>
-<a href="/about/notices">Notice Board</a>
-<a href="#">Staff Profile Update</a>
-<a href="#">Staff Directory</a>
-<a href="#">Email Login</a>
-<a href="#">Student Management</a>
-<a href="#" target="_blank" rel="noopener noreferrer">RTI Forms</a>
-<a href="#" target="_blank" rel="noopener noreferrer">Appellate Officers</a>
-
-<strong>Visitors</strong>
-<a href="#">Campus Visit</a>
-Visitor Blog
-Publications
-Events
-Social Acts
-<a href="https://tecn.ac.bd/campus/group-and-clubs/">Clubs</a>
-Resources
-
-[posts_table post_type="notice" sort_by="date" columns="date,title" rows_per_page="5" links="title"
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, whLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, wh			
+		<p><strong>Textile Engineering</strong><br />Textile Engineering is branch of engineering that deals with designing and controlling all aspects of fiber, textile &amp; apparel processes, products and machinery. It... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh/"><em>(Read Rest</em></a>)</p><p><strong>Career Prospects</strong><br />Being a textile engineers they get vast opportunities in country's giant industry as well as outside. Production control, product research and development, process, sales...(<a href="https://tecn.ac.bd/admission/career-prospects/"><em>Read Rest</em></a>)</p><p><strong>About TECN</strong><br />Textile Engineering College, Begumgonj, Noakhali is an government educational institute in Bangladesh. It is affiliated with Bangladesh Uni...(<a href="https://tecn.ac.bd/about/"><em>Read Rest</em></a>)</p>		
+		<p><strong>Prospective Students</strong><br /> <a href="https://tecn.ac.bd/about/facilities/">Campus Facilities</a><br /> <a href="https://tecn.ac.bd/admission/notices/">Admission Notices</a><br /> <a href="https://tecn.ac.bd/admission/requirements/">Requirements</a><br /> <a href="https://tecn.ac.bd/admission/apply-procedure/">Apply Procedure</a><br /> <a href="https://tecn.ac.bd/admission/career-prospects/">Career prospects</a><br /> <a href="https://tecn.ac.bd/admission/faqs/">Admission FAQ</a><br /> <a href="https://tecn.ac.bd/admission/information-desk/">Information Desk</a></p><p><strong>Current Students</strong><br /><a href="https://tecn.ac.bd/academic/academic-information-policies/">Academic Policies</a><br /><a href="https://tecn.ac.bd/notices/">Notices Board</a><br /><a href="https://tecn.ac.bd/academic/curriculum/">Curriculum</a><br /><a href="https://tecn.ac.bd/academic/grading-policy/">Grading Policy</a><br /><a href="https://tecn.ac.bd/academic/student-code-conduct/">Code of Conduct</a><br /><a href="https://tecn.ac.bd/academic/student-records/">Student Records</a><br /><a href="https://tecn.ac.bd/academic/syllabus/">Syllabus</a></p><p><strong>Staffs</strong><br /><a href="/about/notices">Notice Board</a><br /><a href="#">Staff Profile Update</a><br /><a href="#">Staff Directory</a><br /><a href="#">Email Login</a><br /><a href="#">Student Management</a><br /><a href="#" target="_blank" rel="noopener noreferrer">RTI Forms</a><br /><a href="#" target="_blank" rel="noopener noreferrer">Appellate Officers</a></p><p><strong>Visitors</strong><br /><a href="#">Campus Visit</a><br />Visitor Blog<br />Publications<br />Events<br />Social Acts<br /><a href="https://tecn.ac.bd/campus/group-and-clubs/">Clubs</a><br />Resources</p>		
+		[posts_table post_type="notice" sort_by="date" columns="date,title" rows_per_page="5" links="title"
 search_box="false"
 page_length="false"
 totals="false"
 pagination="true"
 reset_button="false"
 paging_type="simple"
-]
-<h4>Recent Events</h4>
+]		
+			<h4>Recent Events</h4>
