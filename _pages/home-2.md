@@ -1,7 +1,7 @@
 ---
 ID: 86
 post_title: Home
-author: aminulrayhan
+author: Saidul
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/home-2
