@@ -7,7 +7,7 @@ post_title: >
 author: ""
 post_excerpt: ""
 layout: page
-permalink: http://tecn.ac.bd/bd
+permalink: https://tecn.ac.bd/bd
 published: true
 post_date: 2018-02-25 17:25:50
 ---
