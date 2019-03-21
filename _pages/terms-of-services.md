@@ -4,9 +4,10 @@ post_title: Terms of Services
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bd/terms-of-services
+permalink: >
+  https://tecn.ac.bd/bd/about/website/privacy
 published: true
-post_date: 2019-03-21 09:36:33
+post_date: 2019-02-15 19:31:39
 ---
 <div id="gw_terms_243" class=" large gptos_terms_container gwtos_terms_container">
 <div class="gptos_the_terms">
