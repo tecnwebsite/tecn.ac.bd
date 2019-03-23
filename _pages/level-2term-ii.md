@@ -1,7 +1,7 @@
 ---
 ID: 1495
 post_title: F Level-2,Term-II
-author: ""
+author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
