@@ -1,11 +1,11 @@
 ---
 ID: 1440
 post_title: Y Level-2, Term-I
-author: ""
+author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/yme/level-2-term-i
+  https://tecn.ac.bd/academic/courses/yme/21
 published: true
 post_date: 2018-04-13 06:10:12
 ---
