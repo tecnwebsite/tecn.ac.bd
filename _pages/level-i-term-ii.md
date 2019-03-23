@@ -1,7 +1,7 @@
 ---
 ID: 1437
-post_title: Y Level-I, Term-II
-author: ""
+post_title: Y Level-1, Term-II
+author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
