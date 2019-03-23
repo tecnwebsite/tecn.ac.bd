@@ -1,6 +1,6 @@
 ---
 ID: 15053
-post_title: Course Structure
+post_title: All Departments (Overall)
 author: IT Help Desk
 post_excerpt: ""
 layout: page
