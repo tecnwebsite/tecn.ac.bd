@@ -5,7 +5,7 @@ author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/fme/f-level-4-term-ii
+  https://tecn.ac.bd/academic/courses/fme/42
 published: true
 post_date: 2018-04-15 03:55:08
 ---
