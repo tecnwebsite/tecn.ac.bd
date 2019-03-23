@@ -5,7 +5,7 @@ author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/yme/level-i-term-ii
+  https://tecn.ac.bd/academic/courses/yme/12
 published: true
 post_date: 2018-04-13 06:08:15
 ---
@@ -15,7 +15,7 @@ post_date: 2018-04-13 06:08:15
 <td rowspan="2" width="35">Sl</td>
 <td rowspan="2" width="77">Subjec Code</td>
 <td rowspan="2" width="209">Name of subject</td>
-<td rowspan="2" width="63">ContactHour/Week</td>
+<td rowspan="2" width="63">Contact Hour/Week</td>
 <td rowspan="2" width="63">Credit</td>
 <td colspan="3" width="190">Mark Distribution*</td>
 </tr>
