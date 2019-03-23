@@ -5,7 +5,7 @@ author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/fme/level-2-term
+  https://tecn.ac.bd/academic/courses/fme/21
 published: true
 post_date: 2018-04-13 10:41:09
 ---
