@@ -4,7 +4,7 @@ post_title: All Departments (Overall)
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/course-structure
+permalink: https://tecn.ac.bd/academic/courses/all
 published: true
 post_date: 2019-03-23 21:51:12
 ---
