@@ -5,7 +5,7 @@ author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/ame/level-3-term
+  https://tecn.ac.bd/academic/courses/ame/31
 published: true
 post_date: 2018-04-15 04:48:15
 ---
