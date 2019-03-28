@@ -4,7 +4,7 @@ post_title: Home
 author: Saidul
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/
+permalink: http://tecn.ac.bd/
 published: true
 post_date: 2018-02-25 17:25:50
 ---
@@ -20,4 +20,4 @@ pagination="true"
 reset_button="false"
 paging_type="simple"
 ]		
-			<h4>Recent Events</h4>
+			<h4>Recent Events</h4><!-- Created with Elementor -->
