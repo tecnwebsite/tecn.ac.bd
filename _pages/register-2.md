@@ -4,7 +4,7 @@ post_title: Register
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: http://tecn.ac.bd/register-2
+permalink: http://tecn.ac.bd/register-lite
 published: true
 post_date: 2019-03-31 09:33:47
 ---
