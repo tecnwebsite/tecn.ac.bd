@@ -4,7 +4,7 @@ post_title: Home
 author: Saidul
 post_excerpt: ""
 layout: page
-permalink: http://tecn.ac.bd/
+permalink: https://tecn.ac.bd/
 published: true
 post_date: 2018-02-25 17:25:50
 ---
