@@ -4,9 +4,9 @@ post_title: About
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bn/about-2
+permalink: https://tecn.ac.bd/bn/about
 published: true
-post_date: 2019-06-18 11:58:25
+post_date: 2018-02-25 16:43:06
 ---
 The Textile Engineering College, Begumgonj, Noakhali (TCEN) (Bengali: টেক্সটাইল ইঞ্জিনিয়ারিং কলেজ, বেগমগঞ্জ, নোয়াখালী) is a textile engineering educational institute in Noakhali, Chittagong, Bangladesh. It is affiliated with Bangladesh University of Textiles (BUTEX). It is one of the six textile engineering colleges which are directly controlled by Ministry of Textiles &amp; Jute, Bangladesh.
 
