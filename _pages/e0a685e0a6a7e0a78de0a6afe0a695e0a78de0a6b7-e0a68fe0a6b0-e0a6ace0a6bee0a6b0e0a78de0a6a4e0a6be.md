@@ -6,7 +6,7 @@ post_title: >
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: 'https://tecn.ac.bd/bn/%e0%a6%85%e0%a6%a7%e0%a7%8d%e0%a6%af%e0%a6%95%e0%a7%8d%e0%a6%b7-%e0%a6%8f%e0%a6%b0-%e0%a6%ac%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a4%e0%a6%be'
+permalink: https://tecn.ac.bd/bn/message/3993
 published: true
 post_date: 2018-10-31 15:04:09
 ---
