@@ -4,7 +4,7 @@ post_title: Campus Life
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/campus
+permalink: https://tecn.ac.bd/campus-life
 published: true
 post_date: 2018-02-25 16:49:53
 ---
