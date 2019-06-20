@@ -1,7 +1,7 @@
 ---
 ID: 57
 post_title: Campus Life
-author: ""
+author: IT Help Desk
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/campus
