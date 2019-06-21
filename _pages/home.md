@@ -24,4 +24,5 @@ reset_button="false"
 paging_type="simple"
 ]		
 			<h3>সাম্প্রতিক আয়োজন</h3>		
+			<h2><a href="/bd/notices">Show All</a></h2>		
 		[events_list scope="all" pagination="1" limit="3"]
