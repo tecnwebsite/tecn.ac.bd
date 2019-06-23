@@ -1,11 +1,11 @@
 ---
 ID: 1278
 post_title: 'AME 253 : Apparel Manufacturing-I'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/syllabus/ame/ame-253-apparel-manufacturing-i
+  https://tecn.ac.bd/academic/syllabus/ame/253
 published: true
 post_date: 2018-04-12 04:05:44
 ---

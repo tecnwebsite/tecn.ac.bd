@@ -1,11 +1,11 @@
 ---
 ID: 1279
 post_title: 'AME 254 : Apparel Manufacturing-I (Practical)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/syllabus/ame/ame-254-apparel-manufacturing-i-practical
+  https://tecn.ac.bd/academic/syllabus/ame/254
 published: true
 post_date: 2018-04-12 04:06:25
 ---

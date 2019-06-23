@@ -1,7 +1,7 @@
 ---
 ID: 356
 post_title: Facts About TECN
-author: TECN Help Desk
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/about/facts

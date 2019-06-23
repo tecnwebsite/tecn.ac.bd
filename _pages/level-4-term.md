@@ -5,7 +5,7 @@ author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/wpe/level-4-term
+  https://tecn.ac.bd/academic/courses/wpe/41
 published: true
 post_date: 2018-04-13 10:08:34
 ---

@@ -1,11 +1,11 @@
 ---
 ID: 1291
 post_title: 'AME 352 : Apparel Manufacturing Process (Practical)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/syllabus/ame/ame-352-apparel-manufacturing-process-practical
+  https://tecn.ac.bd/academic/syllabus/ame/352
 published: true
 post_date: 2018-04-12 04:15:05
 ---

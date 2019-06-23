@@ -1,11 +1,11 @@
 ---
 ID: 1277
 post_title: 'AME 252 : Preparatory Apparel Production operations (Practical)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/syllabus/ame/ame-252-preparatory-apparel-production-operations-practical
+  https://tecn.ac.bd/academic/syllabus/ame/252
 published: true
 post_date: 2018-04-12 04:04:44
 ---

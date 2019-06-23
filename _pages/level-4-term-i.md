@@ -1,11 +1,11 @@
 ---
 ID: 1448
 post_title: Y Level-4, Term-I
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/yme/level-4-term-i
+  https://tecn.ac.bd/academic/courses/yme/41
 published: true
 post_date: 2018-04-13 06:15:51
 ---

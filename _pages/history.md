@@ -1,7 +1,7 @@
 ---
 ID: 2715
 post_title: History of TECN
-author: TECN Help Desk
+author: IT Help Desk
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/about/history

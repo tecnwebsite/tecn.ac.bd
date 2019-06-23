@@ -1,11 +1,11 @@
 ---
 ID: 1444
 post_title: Y Level-3, Term-I
-author: ""
+author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/courses/yme/level-3-term-i
+  https://tecn.ac.bd/academic/courses/yme/31
 published: true
 post_date: 2018-04-13 06:14:07
 ---

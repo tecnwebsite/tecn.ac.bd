@@ -1,7 +1,7 @@
 ---
 ID: 1298
 post_title: 'AME 356: Application of Computer in Apparel Manufacturing (Practical)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >

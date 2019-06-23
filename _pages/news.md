@@ -1,10 +1,10 @@
 ---
-ID: 8438
+ID: 7987
 post_title: News
-author: TECN Help Desk
+author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: http://tecn.ac.bd/news
+permalink: https://tecn.ac.bd/news
 published: true
-post_date: 2019-02-09 12:36:32
+post_date: 2019-02-14 15:58:25
 ---

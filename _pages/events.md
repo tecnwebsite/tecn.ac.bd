@@ -1,7 +1,7 @@
 ---
 ID: 7370
 post_title: Event and Festivals
-author: TECN Help Desk
+author: IT Help Desk
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/campus/events

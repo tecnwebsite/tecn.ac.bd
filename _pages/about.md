@@ -1,10 +1,10 @@
 ---
-ID: 15611
+ID: 39
 post_title: About
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bn/about
+permalink: https://tecn.ac.bd/about
 published: true
 post_date: 2018-02-25 16:43:06
 ---

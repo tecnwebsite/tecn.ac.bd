@@ -1,11 +1,11 @@
 ---
 ID: 1290
 post_title: 'AME 353 : Apparel Manufacturing-Il (Theory)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
-  https://tecn.ac.bd/academic/syllabus/ame/ame-353-apparel-manufacturing-il-theory
+  https://tecn.ac.bd/academic/syllabus/ame/353
 published: true
 post_date: 2018-04-12 04:15:31
 ---

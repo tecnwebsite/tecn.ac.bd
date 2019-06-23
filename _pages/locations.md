@@ -1,7 +1,7 @@
 ---
 ID: 7374
 post_title: Locations
-author: TECN Help Desk
+author: IT Help Desk
 post_excerpt: ""
 layout: page
 permalink: >

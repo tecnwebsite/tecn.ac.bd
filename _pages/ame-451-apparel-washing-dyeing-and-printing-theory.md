@@ -1,7 +1,7 @@
 ---
 ID: 1307
 post_title: 'AME 451 : Apparel Washing, Dyeing and Printing (Theory)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >

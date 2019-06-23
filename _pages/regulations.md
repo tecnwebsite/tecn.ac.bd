@@ -1,7 +1,7 @@
 ---
 ID: 964
 post_title: Academic Regulations
-author: TECN Help Desk
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/academic/regulations

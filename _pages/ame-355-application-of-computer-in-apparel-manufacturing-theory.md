@@ -1,7 +1,7 @@
 ---
 ID: 1282
 post_title: 'AME 355: Application of Computer in Apparel Manufacturing (Theory)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >

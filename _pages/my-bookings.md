@@ -1,7 +1,7 @@
 ---
 ID: 7381
 post_title: My bookings
-author: TECN Help Desk
+author: IT Help Desk
 post_excerpt: ""
 layout: page
 permalink: >

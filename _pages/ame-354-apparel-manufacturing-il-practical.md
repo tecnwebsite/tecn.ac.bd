@@ -1,7 +1,7 @@
 ---
 ID: 1294
 post_title: 'AME 354 : Apparel Manufacturing-Il (Practical)'
-author: ""
+author: aminulrayhan
 post_excerpt: ""
 layout: page
 permalink: >
