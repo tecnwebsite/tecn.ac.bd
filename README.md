@@ -1,4 +1,4 @@
-Public reposotory for https://tecn.ac.bd for content public contribution 
+Public reposotory for https://tecn.ac.bd (Textile Enginering College, Noakhali) for content public contribution 
 
 Features: 
 1. Robust and unique design that suite a college website.
