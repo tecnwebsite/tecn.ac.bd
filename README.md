@@ -8,7 +8,7 @@ Features:
 5. Club directory.
 6. Website is multisite structure, it means there all club can there own website on the same setup. It might help to grow digital activities in a controlled and moderated environment.
 7. Student Management module
-8. Autoposting: Autoposting feature to publish any post to all connected social network pages and send SMS and Email automatically to users
+8. Autoposting feature to publish any post to all connected social network pages and send SMS and Email automatically to users
 9. Library managements with ebook upload system 
 
 TO DO
