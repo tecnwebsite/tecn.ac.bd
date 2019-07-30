@@ -12,5 +12,8 @@ Features:
 9. Library managements with ebook upload system 
 
 TO DO
-1. Career Management with resume builder
-2. Magazine PUblication with user post option and moderation.
+1. Career Management with resume builder under TECN Career Club and TECNAA
+2. Magazine Publication with user post option and moderation.
+3. Blood Donor management and charity under Branding of Mrittonjoy
+4. Auto web site builder for all clubs to ease site creation
+5. Automatic email id creation on website registering and integrate to yandex free domain api server
