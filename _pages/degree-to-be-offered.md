@@ -1,7 +1,7 @@
 ---
 ID: 894
 post_title: 03. Degree to be offered
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1368
 post_title: 'AE 186 : Computer Fundamentals (Practical)'
-author: ""
+author: IT Help Desk
 post_excerpt: ""
 layout: page
 permalink: >

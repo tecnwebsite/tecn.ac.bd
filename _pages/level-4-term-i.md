@@ -1,6 +1,6 @@
 ---
 ID: 1448
-post_title: Y Level-4, Term-I
+post_title: Level-4, Term-I
 author: aminulrayhan
 post_excerpt: ""
 layout: page
@@ -137,3 +137,8 @@ post_date: 2018-04-13 06:15:51
 </tbody>
 </table>
 * C : Continuous Assessment; F: Final.
+
+<hr />
+
+<h2>Detail Syllabus</h2>
+[ajax_dropdown 16935]

@@ -1,7 +1,7 @@
 ---
 ID: 49
 post_title: Campus Facilities
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/about/facilities

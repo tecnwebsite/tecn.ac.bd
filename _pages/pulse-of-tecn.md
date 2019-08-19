@@ -4,7 +4,8 @@ post_title: Pulse of TECN
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/about/website/pulse
+permalink: >
+  https://tecn.ac.bd/about/website/pulse-of-tecn
 published: true
 post_date: 2019-02-20 17:07:06
 ---

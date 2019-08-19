@@ -1,7 +1,7 @@
 ---
 ID: 65
 post_title: Social Activities
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/campus/activities

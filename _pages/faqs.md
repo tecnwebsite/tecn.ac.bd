@@ -1,7 +1,7 @@
 ---
 ID: 378
 post_title: Frequently Ask Questions
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/admission/faqs

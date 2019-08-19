@@ -8,9 +8,6 @@ permalink: https://tecn.ac.bd/about/website/tos
 published: true
 post_date: 2019-02-15 19:31:39
 ---
-<div id="gw_terms_243" class=" large gptos_terms_container gwtos_terms_container">
-<div class="gptos_the_terms">
-
 By using any TECN alumni websites, which include but are not limited to websites for TECN Alumni Association, TECN Magazine, Giving to TECN, and alumni sites for the TECN Graduates, hence forth referred to as the "Websites", you agree to be bound by the following terms and conditions ("Terms of Use"). This agreement is personal to you; it cannot be assigned or transferred. If any provision of this agreement is invalid or unenforceable under applicable law, the remaining provisions will continue in full force and effect.
 
 1. Your Acceptance
@@ -96,11 +93,8 @@ The logo, name and all graphics on the Website or its affiliates, are trademarks
 12. Indemnification
 
 You agree to indemnify and hold TECN, its trustees, officers, employees and agents harmless from any claims, losses or damages, including legal fees, resulting from your violation of these Terms, your use of the Websites or your placement of any content onto the Website, and to fully cooperate in TECN's defense against any such claims.
-13. Copyright License &amp; Complaints
+13. Copyright License & Complaints
 
 Owner of posted materials grants TECN a non-exclusive, royalty-free, perpetual license to reproduce and distribute any messages and postings made within the mailing lists, discussion forums, or any other service of the Websites.
 
 TECN respects the intellectual property rights of others. If you believe your copyright has been violated on the Website, please give notice at the contact information listed under the notice section of this document.
-
-</div>
-</div>

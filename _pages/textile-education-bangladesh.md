@@ -1,7 +1,7 @@
 ---
 ID: 460
 post_title: Textile Education in Bangladesh
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: >

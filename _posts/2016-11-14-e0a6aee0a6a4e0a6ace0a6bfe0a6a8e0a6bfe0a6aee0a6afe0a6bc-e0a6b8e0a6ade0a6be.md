@@ -4,7 +4,7 @@ post_title: মতবিনিময় সভা
 author: Md. Mehedi Hasan Sumon
 post_excerpt: ""
 layout: post
-permalink: https://tecn.ac.bd/news/7995
+permalink: https://tecn.ac.bd/pulse/7995
 published: true
 post_date: 2016-11-14 16:07:06
 ---

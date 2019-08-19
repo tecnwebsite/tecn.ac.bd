@@ -1,6 +1,6 @@
 ---
 ID: 1542
-post_title: A Level-1, Term-II
+post_title: Level-1, Term-II
 author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
@@ -143,3 +143,8 @@ Week</td>
 </tbody>
 </table>
 C : Continuous Assessment; F: Final.
+
+<hr />
+
+<h2>Detail Syllabus</h2>
+[ajax_dropdown 2679]

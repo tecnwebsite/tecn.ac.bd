@@ -1,7 +1,7 @@
 ---
 ID: 410
 post_title: Group and Clubs
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: >

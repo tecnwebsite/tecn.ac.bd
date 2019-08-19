@@ -1,7 +1,7 @@
 ---
 ID: 392
 post_title: Admission requirements
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: >

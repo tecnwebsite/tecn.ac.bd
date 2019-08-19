@@ -1,7 +1,7 @@
 ---
 ID: 374
 post_title: Tuition and Other Fees
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,6 +1,6 @@
 ---
 ID: 1478
-post_title: W Level-4, Term-I
+post_title: Level-4, Term-I
 author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
@@ -143,3 +143,8 @@ Week</td>
 </tbody>
 </table>
 * C : Continuous Assessment; F: Final.
+
+<hr />
+
+<h2>Detail Syllabus</h2>
+[ajax_dropdown 16924]

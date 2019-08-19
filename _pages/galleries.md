@@ -1,7 +1,7 @@
 ---
 ID: 67
 post_title: Photo Gallery
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: https://tecn.ac.bd/campus/galleries

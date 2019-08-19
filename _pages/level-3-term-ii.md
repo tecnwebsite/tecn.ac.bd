@@ -1,6 +1,6 @@
 ---
 ID: 1446
-post_title: Y Level-3, Term-II
+post_title: Level-3, Term-II
 author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
@@ -137,3 +137,8 @@ post_date: 2018-04-13 06:14:57
 </tbody>
 </table>
 * C : Continuous Assessment; F: Final.
+
+<hr />
+
+<h2>Detail Syllabus</h2>
+[ajax_dropdown 16934]

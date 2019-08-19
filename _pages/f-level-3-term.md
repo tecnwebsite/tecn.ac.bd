@@ -1,6 +1,6 @@
 ---
 ID: 1518
-post_title: F Level-3, Term-I
+post_title: Level-3, Term-I
 author: A.B.M. Zahiduzzahan Nahim
 post_excerpt: ""
 layout: page
@@ -139,3 +139,8 @@ Hour/ Week</td>
 </tbody>
 </table>
 * C : Continuous Assessment; F: Final.
+
+<hr />
+
+<h2>Detail Syllabus</h2>
+[ajax_dropdown 16910]

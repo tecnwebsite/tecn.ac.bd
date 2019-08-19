@@ -1,7 +1,7 @@
 ---
 ID: 892
 post_title: 02. Affiliation
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: >
