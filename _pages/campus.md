@@ -1,19 +1,24 @@
 ---
-ID: 16650
-post_title: >
-  ক্যাম্পাস
-  অবস্থান
+ID: 15636
+post_title: ক্যাম্পাস জীবন
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/bn/about/location
+permalink: https://tecn.ac.bd/bn/campus
 published: true
-post_date: 2019-07-24 10:16:47
+post_date: 2018-02-25 16:49:53
 ---
-<strong>অবস্থান</strong>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-নোয়াখালী টেক্সটাইল ইঞ্জিনিয়ারিং কলেজ, ঢাকা থেকে নোয়াখালী যেতে সড়ক পথে চৌমুহনী চৌরাস্তা পাড় হতেই দুই মিনিটের হাঁটা পথ। নোয়াখালীর ঠিক প্রাণকেন্দ্রে অত্যন্ত মনোরম ও ছায়াশীতল পরিবেশে অবস্থিত।
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-<strong>ক্যাম্পাস </strong>
-
-গেইট দিয়ে প্রবেশ করলেই হাতের বাঁ পাশে প্রথমে চোখে পড়বে ৪ তলা বিশিষ্ট কটন স্পিনিং শেড, আর হাতের ডান পাশে অবস্থিত পাওয়ার সাব-স্টেশন। ঠিক তার গাঁ ঘেঁষেই রয়েছে বয়লার হাউস। তার বিপরীত পাশে অবস্থিত ডায়িং শেড এবং দ্বিতীয় তলায় রয়েছে সেমিনার হল।কটন স্পিনিং শেড ধরে সামনে এগিয়ে গেলেই হাতের বাঁ পাশে চোখে পড়বে ক্যাম্পাস মসজিদ।তার পাশে অবস্থিত জুট স্পিনিং শেড। তার বিপরীত পাশে রয়েছে ফেব্রিক শেড। আর একটু সামনে এগিয়ে এলে চোখে পড়বে ক্যাম্পাসের মূল চত্বর।তার ডানে রয়েছে প্রশাসনিক ভবন আর বামে খেলার মাঠ। গোল চত্বর ধরে সামনে এগিয়ে ডান পাশে চোখে পড়বে লাইব্রেরি ও ওয়ার্কশপ । তার সমনেই রয়েছে শহীদ মিনার। মাঠের পরেই রয়েছে অফিসার্স ডরমেটরি। তার ডানে ছাত্রী নিবাস এবং তার পাশেই রয়েছে অধ্যক্ষের বাসভবন।
+https://www.youtube.com/watch?v=15H7a-pmrdU&amp;feature=youtu.be
+<h2>Club and Activities</h2>
+Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+<a role="button" href="#">
+Click here
+</a>
+Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+<a role="button" href="#">
+Click here
+</a>
