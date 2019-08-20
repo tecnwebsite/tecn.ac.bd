@@ -4,7 +4,7 @@ post_title: Contact US
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/contact-us
+permalink: https://tecn.ac.bd/contacts
 published: true
 post_date: 2019-07-03 12:38:11
 ---
