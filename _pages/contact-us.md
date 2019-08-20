@@ -1,6 +1,6 @@
 ---
 ID: 16070
-post_title: Contact US
+post_title: Contact Us
 author: IT Help Desk
 post_excerpt: ""
 layout: page
