@@ -1,10 +1,12 @@
 ---
-ID: 43
-post_title: Admission
+ID: 16326
+post_title: >
+  ভর্তি
+  সম্পর্কিত
 author: IT Help Desk
 post_excerpt: ""
 layout: page
-permalink: https://tecn.ac.bd/admission
+permalink: https://tecn.ac.bd/bn/admission
 published: true
 post_date: 2018-02-25 16:45:05
 ---
@@ -24,13 +26,17 @@ Seatsper department
 Career Prospects
 </a>
 
-The majority of the universities textile graduates take posts in the textile manufacturing industries as process or plant managers, development engineers or technologists. Graduates have found employment in production management, design, textil... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh">Read more</a>
+বেশিরভাগ বিশ্ববিদ্যালয় টেক্সটাইল স্নাতকের টেক্সটাইল উত্পাদন শিল্পগুলিতে প্রক্রিয়া বা উদ্ভিদ পরিচালকদের, উন্নয়ন প্রকৌশলী বা প্রযুক্তিবিদ হিসাবে পদ গ্রহণ করে।
+
+আমাদের স্নাতকরা বস্ত্র খাতে উৎপাদন, ব্যবস্থাপনা, নকশা ইত্যাদিসহ সরকারি ও দেশের বাইরে কাজ করছেন... <a href="#">আরও পড়ুন</a>
 
 <a role="button">
 Requirements
 </a>
 
-Admission to TECN is highly competitive and needs a high academic attainment at the S.S.C. and H.S.C. level. Selection of the students for admission is made through an admission test of 200 marks and considering GPA of S.S.C. and H.S.C. or equiv... <a href="https://tecn.ac.bd/admission/textile-education-bangladesh">Read more</a>
+​টিইসিএন তে ভর্তি অত্যন্ত প্রতিযোগিতামূলক এবং এসএসসি এবং এইচএসসি কিংবা সমতুল্য পরীক্ষায় উচ্চ একাডেমিক অর্জনের প্রয়োজন।
+
+ভর্তির জন্য শিক্ষার্থীদের ২০০ নম্বরের পরীক্ষা ও এসএসসি এবং এইচএসসি কিংবা সমতুল্য পরীক্ষার জিপিএ দিয়ে বাছাই করা হয়। (<a href="https://tecn.ac.bd/bn/admission/requirements">আরো পড়ুন</a>)
 
 <a role="button" href="https://tecn.ac.bd/admission/requirements">
 Admission
