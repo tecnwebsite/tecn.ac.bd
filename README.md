@@ -11,6 +11,7 @@ Features:
 8. Autoposting feature to publish any post to all connected social network pages and send SMS and Email automatically to users
 9. Library managements with ebook download/upload system 
 10. Class note sharing module
+11. Public email service for  academic use along with account moderation system
 
 TO DO
 1. Career Management with resume builder under TECN Career Club and TECNAA
